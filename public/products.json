@@ -1,0 +1,92 @@
+[
+    {
+    "title": "ETHIOPIA",
+    "description": "Este café de origen proveniente de la región de Huila conlleva un proceso lavado en donde como resultado nos brinda un café con acidez prolongada. Presenta un aroma frutal y notas a nueces y melaza.",
+    "price": 1556,
+    "thumbnail": "/images/Cafe/1.jpeg",
+    "code": "1245",
+    "stock": 71,
+    "id": "1"
+  },
+  {
+    "title": "GUATEMALA",
+    "description": "Es un café con aroma a cacao y frutos secos, sabor a membrillo y chocolate blanco.",
+    "price": 1556,
+    "thumbnail": "/images/Cafe/2.jpeg",
+    "code": "14345",
+    "stock": 76,
+    "id": "2"
+  },
+  {
+    "title": "RWANDA",
+    "description":"La fazenda Daterra, situada al oeste del estado de Minas Gerais, es un laboratorio de variedades de café y de procesos de poscosecha. Esto los posicionó como uno de los productores de café más destacados de la última década.",
+    "price": 1556,
+    "thumbnail": "/images/Cafe/3.jpeg",
+    "code": "453",
+    "stock": 78,
+    "id": "3"
+  }, 
+  {
+    "title": "NICARAGUA",
+    "description": "Los cafés de este país son tan característicos que es muy fácil perderse entre tantos aromas a frutas y flores como mango, hibisco, naranja o durazno. ",
+    "price": 1556,
+    "thumbnail": "/images/Cafe/4.jpeg",
+    "code": "342",
+    "stock": 97,
+    "id": "4"
+  },
+  {
+    "title": "Hario V60 02 Pour Over Kit 700ml",
+    "description": "El gotero de cerámica V60 está fabricado con el tradicional Método Arita yaki que se ha transmitido durante 400 años. El tradicional japonés Monozukuri (producción innovadora) espíritu que presta atención a los pequeños detalles apoya la belleza funcional de HARIO.",
+    "price": 1556,
+    "thumbnail": "/images/Cafeteras/5.jpeg",
+    "code": "564",
+    "stock": 65,
+    "id": "5"
+  },
+  {
+    "title": "Aeropress",
+    "description": "La cafetera de viaje Aeropress brinda a los amantes del café todo lo que necesitan para preparar un café excelente en cualquier lugar. Diseñada para ser llevada de viaje, es compacta, liviana y duradera; todo se empaqueta perfectamente en la taza incluida.",
+    "price": 1556,
+    "thumbnail": "/images/Cafeteras/6.jpeg",
+    "code": "8765",
+    "stock": 54,
+    "id": "6"
+  },
+  {
+    "title": "Hario V60 02 Clear Coffee Dripper With Filters",
+    "description": "Hario V60 02 Clear Coffee Dripper With Filters",
+    "price": 1556,
+    "thumbnail": "/images/Cafeteras/7.jpegg",
+    "code": "4365",
+    "stock": 57,
+    "id": "7"
+  },
+  {
+    "title": "Hario Coffee Dripper V60 01 Plastic - Red",
+    "description": "Este dripper V60 Hario está hecho en plástico de muy buena calidad y diseño icónico en un rojo punzó. El dripper se puede colocar tanto en la jarra Hario de la medida 02 como en cualquier taza directo para tomar. Incluye también una cuchara medidora para medir los gramos de café que vertemos sobre la cafetera.",
+    "price": 1556,
+    "thumbnail": "//images/Cafeteras/8.jpeg",
+    "code": "6785",
+    "stock": 87,
+    "id": "8"
+  }, 
+  {
+    "title": "Hario V60 Drip Station Pour Over",
+    "description": "EBandeja de goteo bellamente elaborada, perfecta para los conocedores del café.Compatible con el gotero de café V60.Fácil de usar y limpiar.Estación transparente que va perfectamente con cualquiera de los goteros V60.Diseñado y fabricado en Japón.",
+    "price": 1556,
+    "thumbnail": "/images/Cafeteras/9.jpeg",
+    "code": "5434",
+    "stock": 45,
+    "id": "9"
+  },
+  {
+    "title": "Hario Fretta V60 Iced & Hot Coffee Maker",
+    "description": "Nuestra taza de café un sabor se puede degustar en casa; Bella de café para un profesional. Hario en japonés significa King de vidrio. Experiencia profesional. Fácil de usar y de limpiar. Fabricado en Japón",
+    "price": 1556,
+    "thumbnail": "/images/Cafeteras/10.jpeg",
+    "code": "53463",
+    "stock": 35,
+    "id": "10"
+  }
+]
